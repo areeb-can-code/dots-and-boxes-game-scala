@@ -2,7 +2,7 @@
 
 ## Overview
 
-Dots and Boxes is a classic pencil-and-paper game. This assignment introduces a modified version with weighted scoring, implemented in Scala to provide an engaging experience.
+Dots and Boxes is a classic pencil-and-paper game. This project introduces a modified version with weighted scoring _(to be implemented)_, implemented in **Scala** to provide an engaging experience.
 
 ## Scope of the Assignment
 
