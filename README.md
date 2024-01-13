@@ -4,7 +4,7 @@
 
 Dots and Boxes is a classic pencil-and-paper game. This project introduces a modified version with weighted scoring _(to be implemented)_, implemented in **Scala** to provide an engaging experience.
 
-## Scope of the Assignment
+## Scope
 
 - **Weighted Scoring**: Each box is randomly assigned a value between 1 and 5, and a player's score is the sum of claimed box values.
   
@@ -16,8 +16,6 @@ Dots and Boxes is a classic pencil-and-paper game. This project introduces a mod
   
 - **Algorithm Understanding**: The code demonstrates a solid grasp of the MINIMAX algorithm, balancing efficiency and clarity without resorting to spaghetti code.
 
-- **Aesthetics**: Proper whitespace use, clear structure, and meaningful variable names contribute to code aesthetics. Every method and function is appropriately commented for clarity.
-
 ## Pitfalls and Considerations
 
 - **Performance Challenges**: Experimentation with different plies and board sizes may reveal performance challenges, especially for larger boards and higher plies. The analysis document delves into these challenges.
@@ -28,4 +26,4 @@ For a detailed analysis of the implementation, including insights into gameplay 
 
 ---
 
-*Note: This project is an attempt to utilize the MINIMAX function, navigating complexities in mathematics while avoiding computational explosions.*
+*Note: This project is an attempt to utilize the MINIMAX function, due to the math complications, the alpha and beta pruning may be inaccurate.*
