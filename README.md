@@ -22,7 +22,7 @@ Dots and Boxes is a classic pencil-and-paper game. This project introduces a mod
 
 ## Analysis
 
-For a detailed analysis of the implementation, including insights into gameplay experimentation, performance considerations, and reflections on AI behavior, refer to the [Analysis Document](link-to-analysis-document).
+For a detailed analysis of the implementation, including insights into gameplay experimentation, performance considerations, and reflections on AI behavior, refer to the [Analysis Document]([link-to-analysis-document](https://github.com/areeb-can-code/dots-and-boxes-game-scala/blob/main/%5BCSC-380%5D%20Dots-n-Boxes.docx)).
 
 ---
 
